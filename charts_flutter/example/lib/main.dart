@@ -49,6 +49,8 @@ class GalleryAppState extends State<GalleryApp> {
   }
 }
 
+
+///main
 void main() {
   runApp(new GalleryApp());
 }
